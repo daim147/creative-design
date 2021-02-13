@@ -601,13 +601,13 @@ html{
     }
     .section-1-heading{
         width: 52rem;
-        top: 40%;
+        top: 35%;
     }
     .logo{
-        top: 65%;
+        top: 60%;
     }
     .logo i{
-        font-size: 10rem;
+        font-size: 13rem;
         margin-bottom: 3rem;
     }
     .customer{
