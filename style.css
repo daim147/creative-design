@@ -110,10 +110,10 @@ html {
     font-size: 7rem;
     font-family: 'Monoton', cursive;
     position: absolute;
-    top: 45vh;
+    top: 50vh;
     left: 50%;
     transform: translateX(-50%);
-    color: rgba(50, 231, 255, 0.3);
+    color: rgba(50, 231, 255, 1);
     text-shadow: .3rem .3rem .3rem #888;
     background-color: #fff;
     width: 75rem;
@@ -126,7 +126,7 @@ html {
 
 .logo {
     position: absolute;
-    top: 70%;
+    top: 75%;
     left: 50%;
     transform: translateX(-50%);
 }
