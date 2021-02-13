@@ -113,7 +113,7 @@ html {
     top: 45vh;
     left: 50%;
     transform: translateX(-50%);
-    color: rgba(50, 231, 255, 1);
+    color: rgba(50, 231, 255, 0.3);
     text-shadow: .3rem .3rem .3rem #888;
     background-color: #fff;
     width: 75rem;
@@ -121,7 +121,7 @@ html {
     padding: 0.8rem 1rem;
     border-radius: 0.8rem;
     opacity: .9;
-    backdrop-filter: blur(2px);
+   
 }
 
 .logo {
