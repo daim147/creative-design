@@ -597,11 +597,14 @@ html{
         font-size: 45%;
     }
     .floating-bg{
-        top: -50vw;
+        top: -45vw;
     }
     .section-1-heading{
         width: 52rem;
-        top: 42%;
+        top: 40%;
+    }
+    .logo{
+        top: 65%;
     }
     .logo i{
         font-size: 10rem;
